@@ -1,0 +1,1 @@
+Fajlovi tinyxml2.h i tinyxml2.cpp su biblioteke za kreiranje i parsiranje XML dokumenata preuzete sa Interneta.
